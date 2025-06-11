@@ -4,7 +4,7 @@
 # Add or remove URLs as needed. All URLs in this list are automatically enabled.
 SOURCE_URLS = [
     "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
-    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#v2ray_Extractor_mix",
+    "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html",
     # Add more URLs here if you want to include additional sources.
 ]
 
