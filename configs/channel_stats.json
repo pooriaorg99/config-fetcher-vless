@@ -1,48 +1,48 @@
 {
-  "timestamp": "2025-06-11T17:50:23.502072+00:00",
+  "timestamp": "2025-06-11T18:16:52.068177+00:00",
   "channels": [
     {
-      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
       "enabled": true,
       "metrics": {
-        "total_configs": 10914,
-        "valid_configs": 102,
-        "unique_configs": 102,
-        "avg_response_time": 0.12,
+        "total_configs": 41612,
+        "valid_configs": 128,
+        "unique_configs": 128,
+        "avg_response_time": 0.05,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.05,
-        "last_success": "2025-06-11T17:50:21.127600+00:00",
+        "overall_score": 75.01,
+        "last_success": "2025-06-11T18:16:49.928811+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 10,
-          "vless://": 28,
-          "vmess://": 28,
-          "ss://": 8,
-          "trojan://": 28,
+          "hysteria2://": 0,
+          "vless://": 128,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html#v2ray_Extractor_mix",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 9409,
-        "valid_configs": 89,
-        "unique_configs": 89,
-        "avg_response_time": 0.18,
+        "total_configs": 3136,
+        "valid_configs": 51,
+        "unique_configs": 51,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.97,
-        "last_success": "2025-06-11T17:50:23.500772+00:00",
+        "overall_score": 75.29,
+        "last_success": "2025-06-11T18:16:52.067450+00:00",
         "protocol_counts": {
           "wireguard://": 0,
-          "hysteria2://": 2,
+          "hysteria2://": 0,
           "vless://": 51,
-          "vmess://": 6,
-          "ss://": 29,
-          "trojan://": 1,
+          "vmess://": 0,
+          "ss://": 0,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
