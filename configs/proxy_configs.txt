@@ -6,11 +6,9 @@
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
 
-vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=none&encryption=none&host=Apple-SIB.ir&type=ws#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.224.218:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.144.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.136.1:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.101:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com#%40REDFREE8
 
@@ -24,15 +22,7 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.99:443/?type=tcp&encrypt
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&alpn=h2%2Chttp%2F1.1#%40REDFREE8
 
-vless://0cd45081-0953-4754-b8e5-d630a50c25ab@151.101.64.155:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=soso.mashti.com&type=ws#%40REDFREE8
-
-vless://0cd45081-0953-4754-b8e5-d630a50c25ab@www.speedtest.net:80?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.jk.argonet.online.&type=ws#%40REDFREE8
-
-vless://0eb83f3e-7b95-427a-8952-abedfca1869f@104.26.15.85:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=QW.VU6d72nt9y.zULaiR.orG.&type=ws#%40REDFREE8
-
 vless://15face3d-979a-40e5-fcbe-62b82a46aed4@151.101.64.155:80/?type=ws&encryption=none&flow=&host=Aparatay.com&path=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048#%40REDFREE8
-
-vless://15face3d-979a-40e5-fcbe-62b82a46aed4@151.101.64.155:80?path=%2Ftel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel-----WedBaZtel%3Fed%3D2048&security=none&encryption=none&host=Aparatay.com&type=ws#%40REDFREE8
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8
 
@@ -44,9 +34,13 @@ vless://3054a28e-177a-412f-9b03-9855d79aa728@104.26.13.31:8880/?type=ws&encrypti
 
 vless://3054a28e-177a-412f-9b03-9855d79aa728@172.67.75.172:8880/?type=ws&encryption=none&flow=&host=0609.sunnyfish.dpdns.org&path=%2F#%40REDFREE8
 
+vless://3058e698-61fd-4d12-95bc-f1fe4c071713@www.speedtest.net:443?path=%2FRklUHeautH5uvnSB%2FNTQuMTY5LjIyOS4xODg&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#%40REDFREE8
+
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.31.16.95:2053/?type=ws&encryption=none&flow=&host=ir.akcovufun.ir&path=%2F&security=tls&sni=ir.akcovufun.ir#%40REDFREE8
 
 vless://3c2044fe-b1a6-490d-997d-1f44976316e0@162.55.177.55:8295/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=jAMPNXKmyWrMP8Q5U3x1an17VmL3bwhWtcWgTZsPc1s&sid=#%40REDFREE8
+
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#%40REDFREE8
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh31v6.hiddendom.shop&alpn=h2#%40REDFREE8
 
@@ -54,9 +48,15 @@ vless://432e1e8b-18ce-488f-8203-2ba54b2fb61f@104.21.21.31:443/?type=ws&encryptio
 
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#%40REDFREE8
 
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
-
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&sid=#%40REDFREE8
 
 vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&sid=#%40REDFREE8
+
+vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v05.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%40REDFREE8
+
+vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v15.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%40REDFREE8
+
+vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v22.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%40REDFREE8
+
+vless://4aefa474-aa2c-46d4-aff1-82fa29dd5c25@v35.vxlimir.com:1370?security=reality&type=tcp&headerType=none&path=&host=&sni=refersion.com&fp=chrome&pbk=_N3KecwB9Ck28IIMxIck00ivkq3_ZEUvU3KXELnfvHw&sid=e1afb93bfe75a34b#%40REDFREE8
 
