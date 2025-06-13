@@ -10,9 +10,11 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryp
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&fp=chrome#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.165.62:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.136.1:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.194.138.8:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.120.136.50:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 vless://07c846af-4106-4790-9f83-10994c9e03d4@57.129.29.160:2030/?type=grpc&encryption=none&flow=&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%40REDFREE8
 
@@ -47,8 +49,6 @@ vless://367991e3-a5cc-4b1a-fed8-2efe19933291@5.231.26.127:25360/?type=grpc&encry
 vless://392af9cc-9d20-41fb-9509-ee53090fe2ae@157.180.23.58:2052/?type=grpc&encryption=none&flow=&serviceName=%40seyyedmt-%40seyyedmt%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt&sni=wordpress.org&fp=chrome&security=reality&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#%40REDFREE8
 
 vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#%40REDFREE8
-
-vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445?security=reality&encryption=none&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tesla.com&sid=f8a537#%40REDFREE8
 
 vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh31v6.hiddendom.shop&alpn=h2#%40REDFREE8
 
