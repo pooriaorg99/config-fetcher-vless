@@ -10,12 +10,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryp
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&fp=chrome#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.72.117.224:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-vless://06121b89-607b-44c9-9c01-cc2fc6a7321d@192.9.129.48:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.yahoo.com&fp=chrome&security=reality&pbk=4Qekb9y1dqO8hvRzVSGeSRNyhko_gqpeWD94zrLCvjs&sid=5488b0e7#%40REDFREE8
-
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@decker.ns.cloudflare.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=yz.ylka.dpdns.org&type=ws&sni=yz.ylka.dpdns.org#%40REDFREE8
-
 vless://07c846af-4106-4790-9f83-10994c9e03d4@57.129.29.160:2030/?type=grpc&encryption=none&flow=&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%40REDFREE8
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@135.148.97.103:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com#%40REDFREE8
@@ -36,27 +30,33 @@ vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encrypt
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8
 
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=62X1tXx6M0.9pEsC.cOm&fp=chrome&type=ws&sni=62X1tXx6M0.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=FlN5fXaYrS.9pEsC.cOm&fp=chrome&type=ws&sni=FlN5fXaYrS.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=HkPk6Cd2Kj.9PeSc.CoM&fp=chrome&type=ws&sni=HkPk6Cd2Kj.9PeSc.CoM#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=PkO09dA8jF.9pEsC.cOm&fp=chrome&type=ws&sni=PkO09dA8jF.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Q03l9EiQiA.9pEsC.cOm&fp=chrome&type=ws&sni=Q03l9EiQiA.9pEsC.cOm#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=ZhN5vJ9dY7.9pEsC.cOm&fp=chrome&type=ws&sni=ZhN5vJ9dY7.9pEsC.cOm#%40REDFREE8
-
-vless://2820219d-0979-4914-9ea1-09a4bd017535@speedtest.net:80?path=%2F%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%40V2RAYFAST_7%3Fed%3D2048&security=none&encryption=none&host=fastusa.com&type=ws#%40REDFREE8
-
 vless://2d47a067-fa29-4d62-b596-b58c8782e880@185.232.152.17:12243/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
-
-vless://3058e698-61fd-4d12-95bc-f1fe4c071713@104.17.148.22:443?path=%2FTelegram%40V2ray_Alpha&security=tls&alpn=http%2F1.1&encryption=none&host=hozori.ir&fp=randomized&type=ws&sni=hOZori.iR#%40REDFREE8
 
 vless://33707040-edcf-4185-94e4-2a071315c602@5.75.196.173:443/?type=tcp&encryption=none&flow=&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&security=reality&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=7def4dde#%40REDFREE8
 
 vless://362df37b-63ab-44d1-bdb1-c5fc52512b3d@104.21.63.171:2052/?type=ws&encryption=none&flow=&host=wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#%40REDFREE8
 
 vless://367991e3-a5cc-4b1a-fed8-2efe19933291@5.231.26.127:25360/?type=grpc&encryption=none&flow=&serviceName=%40Zerov2shop#%40REDFREE8
+
+vless://3807dea3-5eda-4cd7-8c5f-fcb7bd4f4c98@151.101.64.155:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=Lightning6.ir&type=ws#%40REDFREE8
+
+vless://392af9cc-9d20-41fb-9509-ee53090fe2ae@157.180.23.58:2052/?type=grpc&encryption=none&flow=&serviceName=%40seyyedmt-%40seyyedmt%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt&sni=wordpress.org&fp=chrome&security=reality&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#%40REDFREE8
+
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh31v6.hiddendom.shop&alpn=h2#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh31v6.hiddendom.shop&alpn=h2#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh31v6.hiddendom.shop&alpn=h2#%40REDFREE8
+
+vless://401ed4ae-68c0-4471-8a2f-6a1657aeb92c@167.172.77.142:38643/?type=ws&encryption=none&flow=&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#%40REDFREE8
+
+vless://41ccc2f6-e2ed-48b6-bb9f-bce8cbfc4f0d@45.135.195.227:8032/?type=tcp&encryption=none&flow=&security=tls&sni=asanaf.ir#%40REDFREE8
+
+vless://464e755f-27a5-4990-b029-33d3b7a0c154@65.109.209.140:8443/?type=grpc&encryption=none&flow=#%40REDFREE8
+
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#%40REDFREE8
+
+vless://49d4b99d-7d99-416a-9778-2c75d79100bb@172.66.47.92:443/?type=ws&encryption=none&flow=&host=Work-YUU00.pageS.dEv&path=%2F&security=tls&sni=Work-YUU00.pageS.dEv#%40REDFREE8
 
