@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23T08:30:10.606807+00:00",
+  "timestamp": "2025-06-23T10:24:22.024105+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
@@ -8,11 +8,11 @@
         "total_configs": 40800,
         "valid_configs": 158,
         "unique_configs": 158,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.07,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.88,
-        "last_success": "2025-06-23T08:30:08.421072+00:00",
+        "overall_score": 74.99,
+        "last_success": "2025-06-23T10:24:19.909997+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -28,18 +28,18 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 484,
-        "valid_configs": 22,
-        "unique_configs": 22,
-        "avg_response_time": 0.18,
+        "total_configs": 1024,
+        "valid_configs": 32,
+        "unique_configs": 32,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.87,
-        "last_success": "2025-06-23T08:30:10.606113+00:00",
+        "overall_score": 75.63,
+        "last_success": "2025-06-23T10:24:22.023354+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 22,
+          "vless://": 32,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
