@@ -14,11 +14,13 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryp
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&fp=chrome#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.74.220.92:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.8.193:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.180.106.215:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.94.201:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.208.200:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.73.54.252:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.142.216:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 vless://07c846af-4106-4790-9f83-10994c9e03d4@57.129.29.160:2030/?type=grpc&encryption=none&flow=&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%40REDFREE8
 
@@ -44,19 +46,17 @@ vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encrypt
 
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%40REDFREE8
 
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#%40REDFREE8
+
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&host=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%40REDFREE8
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#%40REDFREE8
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8
 
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@FV.samiion73.ir:8080?flow=&fp=chrome&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&security=reality&sid=a3f994823291&sni=www.chatgpt.com&type=tcp#%40REDFREE8
+
+vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?flow=&fp=chrome&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&security=reality&sid=a3f994823291&sni=www.chatgpt.com&type=tcp#%40REDFREE8
+
 vless://199ff20d-9bb4-423a-b759-e538392a27b6@FXS.samiion73.ir:8080?type=tcp&security=reality&pbk=TcTr1oUPAg6fEwLl8NdVInMRQOb-74dRRxh6gwbZVkw&fp=chrome&sni=www.chatgpt.com&sid=a3f994823291&spx=%2F#%40REDFREE8
-
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
-
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=51PsHq6RqP.vPbEtHoRvP002.iNfO&type=ws&alpn=h3h2&host=51PsHq6RqP.vPbEtHoRvP002.iNfO&path=/#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@104.18.26.90:2096?encryption=none&security=tls&sni=JuOf8QfKy3.VpBeThOrVp002.InFo&type=ws&alpn=h3h2&host=JuOf8QfKy3.VpBeThOrVp002.InFo&path=/#%40REDFREE8
 
