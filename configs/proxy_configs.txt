@@ -4,7 +4,7 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%65d%65ff%659%65-4725-428%65-%611c0-7b6%6196124f8d@194.182.79.163:10108?mode=gun&security=reality&encryption=none&authority=&pbk=wGHsRP4taNR7OgyRPba24krQVhH9ZRbR7pvDxVsGjj0&fp=chrome&spx=%2F&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON&sni=journalofbigdata.springeropen.com&sid=ed#%40REDFREE8
+vless://%6501387f6-%6592%65-464%65-%61%6126-6b21611%61dc86@104.21.0.0:80?path=%2F%40%76m%65sso%72g----%40%76m%65sso%72g-----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g%3Fed%3D2480&security=none&encryption=none&host=jo%69n-to-%56m%65sso%72g.s%61b%61dyt.%69%72&type=ws#%40REDFREE8
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
 
@@ -18,13 +18,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryp
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&fp=chrome#%40REDFREE8
 
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.192.190.191:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.182.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.64.164:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
-
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.180.0.166:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.156.239:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 vless://07c846af-4106-4790-9f83-10994c9e03d4@57.129.29.160:2030/?type=grpc&encryption=none&flow=&serviceName=CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config--TELEGRAM--jet_config--CANALTELEGRAM--jet_config&sni=wordpress.org&fp=chrome&security=reality&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=7fe29733#%40REDFREE8
 
@@ -44,6 +38,8 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryptio
 
 vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?mode=gun&security=reality&encryption=none&authority=&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw&fp=randomized&spx=%2F&type=grpc&serviceName=Telegram%3A%40FergalVpnMod&sni=cloudflare.com&sid=9ecc4615ce#%40REDFREE8
 
+vless://0b9ee474-19f6-4d7f-9281-96f239e6cebc@server1.fergalvpnmod.com:28338?sni=cloudflare.com&sid=9ecc4615ce&mode=gun&security=reality&encryption=none&serviceName=Telegram%3A%40FergalVpnMod&fp=randomized&type=grpc&pbk=MJwVQS7Qs5U_FYJn_osHZJSQ9ioxZRHC2HDPVwt7nmw#%40REDFREE8
+
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505?path=%2F&security=&encryption=none&type=ws#%40REDFREE8
 
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=&encryption=none&headerType=none&type=tcp#%40REDFREE8
@@ -59,4 +55,8 @@ vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality
 vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encryption=none&flow=&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#%40REDFREE8
 
 vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%40REDFREE8
+
+vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&sid=974a74bf#%40REDFREE8
+
+vless://17034%65%65f-9472-45cc-bc%615-%6171f90%6536244@104.21.112.1:8080?path=%2F%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76-----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65d%65%76----%40%76m%65sso%72g----%40unl%69m%69t%65dd%65%76----%40unl%69m%69t%65dd%65%76%3Fed%3D2480&security=none&encryption=none&host=jo%69n-to-unl%69m%69t%65dd%65%76.s%61b%61dyt.%69%72&type=ws#%40REDFREE8
 
