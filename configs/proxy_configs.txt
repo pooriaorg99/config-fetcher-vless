@@ -6,8 +6,6 @@
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
 
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560&security=&encryption=none&host=vghavi32.ip-ddns.com&type=ws#%40REDFREE8
-
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%40REDFREE8
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&fp=chrome#%40REDFREE8
@@ -36,6 +34,10 @@ vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encry
 
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&headerType=none&security=none#%40REDFREE8
 
+vless://19b32b55-1547-49db-9%65f7-8c%6121d580c%653@91.99.97.62:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=%2F&type=grpc&serviceName=%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM&sni=www.cdn77.com#%40REDFREE8
+
+vless://19b32b55-1547-49db-9ef7-8ca21d580ce3@91.99.97.62:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=%2F&type=grpc&serviceName=%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&sni=www.cdn77.com#%40REDFREE8
+
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?flow=&type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#%40REDFREE8
@@ -52,11 +54,9 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.1
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
 
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#%40REDFREE8
+
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
+
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#%40REDFREE8
-
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2F----%40-%3Fed%3D2560&security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#%40REDFREE8
-
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?path=%2FBarayeiranmahsang%2FfreenettirsTEL%40ShadowProxy66%3Fed%3D2560&security=&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&fp=random&type=ws&sni=barayeiran-mahsang.gerald81.dpdns.org#%40REDFREE8
-
-vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
 
