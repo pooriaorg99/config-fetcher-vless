@@ -4,7 +4,11 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://%61%610b%61cdf-c03f-45d4-%617f2-6856b0d3cb86@104.17.148.22:2095?path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=none&encryption=none&host=ww.%69%72%41nsh%65%65p.wEb.t%72.&type=httpupgrade#%40REDFREE8
+
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
+
+vless://020eeb0a-796f-4e31-8ad1-08cc9e13ca21@85.90.207.183:54500?type=ws&security=none#%40REDFREE8
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -26,11 +30,9 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@15.204.187.172:443/?type=tcp&encryp
 
 vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryption=none&flow=&security=tls&sni=147135011033.sec21org.com&alpn=h2%2Chttp%2F1.1#%40REDFREE8
 
-vless://0c2a1be7-cdde-4854-a45c-ddec52584fa1@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=firefox&spx=%2F&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#%40REDFREE8
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#%40REDFREE8
 
 vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encryption=none&flow=&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#%40REDFREE8
-
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?security=reality&encryption=none&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&headerType=none&fp=chrome&type=tcp&sid=974a74bf#%40REDFREE8
 
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
 
@@ -41,6 +43,8 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&h
 vless://19b32b55-1547-49db-9%65f7-8c%6121d580c%653@91.99.97.62:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=%2F&type=grpc&serviceName=%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM----------%40%56PN_ROOM--------%40%56PN_ROOM&sni=www.cdn77.com#%40REDFREE8
 
 vless://19b32b55-1547-49db-9ef7-8ca21d580ce3@91.99.97.62:51479?mode=gun&security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=%2F&type=grpc&serviceName=%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM----------%40VPN_ROOM--------%40VPN_ROOM&sni=www.cdn77.com#%40REDFREE8
+
+vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&spx=%2F&type=tcp&headerType=none#%40REDFREE8
 
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
 
@@ -55,8 +59,4 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.1
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
 
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
-
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=%2F193.123.81.105%3D443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#%40REDFREE8
-
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.46.251.109:2020?security=&encryption=none&headerType=none&type=tcp#%40REDFREE8
 
