@@ -6,8 +6,6 @@
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
 
-vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.69.64:8880?path=%2F7YVyoVNnbaVzgl6D%3Fed%3D2560&security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#%40REDFREE8
-
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%40REDFREE8
@@ -34,15 +32,19 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryptio
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#%40REDFREE8
 
-vless://101e6a7d-7d10-4859-a626-8a76daab4547@openai.com:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=nkAnG2rEpLACE.airlineSHoma.Com&fp=randomized&type=ws&sni=nkAnG2rEpLACE.airlineSHoma.Com#%40REDFREE8
-
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@antimage.fonixapp.org:30938?security=reality&encryption=none&pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=9f2b1f07#%40REDFREE8
 
 vless://1068814a-6d43-40d9-a127-0f6b6b77ccfc@antimage.fonixapp.org:30938?security=reality&encryption=none&pbk=OkwhFGkP6NhXbmfBpBKqJ_HDNEcqbkp0mMc9HeYVBBE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=indeed.com&sid=9f2b1f07#%40REDFREE8
 
 vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encryption=none&flow=&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#%40REDFREE8
 
+vless://121610b9-74a8-4988-ace2-bafb3013fde1@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40REDFREE8
+
 vless://121610b9-74a8-4988-ace2-bafb3013fde1@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40REDFREE8
+
+vless://121610b9-74a8-4988-ace2-bafb3013fde1@www.speedtest.net:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40REDFREE8
+
+vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.201.73:10504?type=ws&security=none#%40REDFREE8
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#%40REDFREE8
 
@@ -52,11 +54,9 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?flow=&type=tcp&h
 
 vless://1ae71b47-30f4-47a3-f961-d5e438e5bf9f@31.56.146.132:56583?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=P2ZwmZkn0t1oar2m9n_iWXUNVN01CSOaMzaIbscu5xI&spx=%2F&type=tcp&headerType=none#%40REDFREE8
 
+vless://1b333390-4165-4d9a-b50f-8572e6153e56@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&security=none#%40REDFREE8
+
 vless://1c22f9ec-4677-4a53-921a-a87c63df37d5@15.204.199.122:57403?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
 
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40REDFREE8
-
-vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
-
-vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&encryption=none&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d70393f0ad1c7552#%40REDFREE8
 
