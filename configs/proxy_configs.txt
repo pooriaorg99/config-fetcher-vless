@@ -4,9 +4,15 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%65100d3b3-%65706-4093-%61%6507-b820b4%613c6%656@91.99.231.221:2020?mode=gun&security=reality&encryption=none&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=%2F&type=grpc&serviceName=t%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE&sni=tgju.org&sid=809cb172dbede776#%40REDFREE8
+vless://%54ELEGR%41M-CONF%69GL%69NE@172.66.40.99:443?path=%2Ft%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=%61z52.m%61shk%65st%61n.com&fp=firefox&type=ws&sni=az52.mashkestan.com#%40REDFREE8
+
+vless://%54ELEGR%41M-CONF%69GL%69NE@172.66.40.99:8080?path=%2Ft%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%3Fed%3D2048&security=none&encryption=none&host=%61z224.m%61shk%65st%61n.com&type=ws#%40REDFREE8
+
+vless://%54ELEGR%41M-CONF%69GL%69NE@91.99.231.221:2020?mode=gun&security=reality&encryption=none&authority=&pbk=MsgiNZIaJte4RIM-mqlVqRJaJRJWtObBasQs3fB8pQI&fp=chrome&spx=%2F&type=grpc&serviceName=t%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE%2Ct%65l%65g%72%61m-CONF%69GL%69NE&sni=tgju.org&sid=809cb172dbede776#%40REDFREE8
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
+
+vless://01232cb4-ceab-43c1-f384-09f698db6c19@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&security=none#%40REDFREE8
 
 vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
 
@@ -32,17 +38,19 @@ vless://0a44145f-59dc-4e5b-a233-677b97f5114c@51.81.36.78:443/?type=tcp&encryptio
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&sni=i2pd.website&fp=chrome&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&sid=55e6af1a35e64a98&type=tcp&flow=xtls-rprx-vision&encryption=none#%40REDFREE8
 
-vless://1%614784%615-49%65d-4345-b5f9-98cdd70%6181b8@172.66.40.99:8080?path=%2F-L%69%562%72y%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6%3Fed%3D2048&security=none&encryption=none&host=k.ft.%69p-ddns.com&type=ws#%40REDFREE8
+vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=%2Fed%3D2560&security=none&encryption=none&type=ws#%40REDFREE8
 
 vless://111a188a-c109-4212-bae3-2c9d7630267f@188.34.164.75:2053/?type=ws&encryption=none&flow=&path=%2Ftelegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY-telegram%2C%40BINEXTIFY%3Fed%3D2560#%40REDFREE8
+
+vless://1271%61698-7db4-455d-b7%652-d%61%6107389bb6c@172.66.40.99:8080?path=%2F-L%69%562%72y%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6%3Fed%3D2048&security=none&encryption=none&host=k.ft.%69p-ddns.com&type=ws#%40REDFREE8
+
+vless://1271a698-7db4-455d-b7e2-daa07389bb6c@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#%40REDFREE8
 
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504?type=ws&security=none#%40REDFREE8
 
 vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=rayan-supra.parisa.dpdns.org&type=ws&sni=rayan-supra.parisa.dpdns.org#%40REDFREE8
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8
-
-vless://1a4784a5-49ed-4345-b5f9-98cdd70a81b8@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#%40REDFREE8
 
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40REDFREE8
 
@@ -51,12 +59,4 @@ vless://1d0dfde1-9f18-4557-9af8-4f3124ee5dcd@wild-bird.seotoolsforyou.co.uk:80?p
 vless://1dc60f16-1593-485e-949d-8459edba6430@92.53.107.193:27129?security=reality&encryption=none&pbk=pqVSxW8Vukd7XiPZUQTd9ADNT2XBrCGJ4q2-7n6kQXQ&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d70393f0ad1c7552#%40REDFREE8
 
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
-
-vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40REDFREE8
-
-vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#%40REDFREE8
-
-vless://28e90585-3bee-46e2-9f53-a44a88d1d180@172.66.40.99:80?path=%2FJoin-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-bia-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON-ZE%2544MO%2544EON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#%40REDFREE8
-
-vless://2a562107-43a6-40a4-a35e-e01e6f21684e@85.234.65.120:443?security=reality&encryption=none&pbk=ng4h6xKU-cqoC_T4U9_wGbYlFqpj9RJbsWVR4AJ_MSo&headerType=none&fp=firefox&type=tcp&sni=www.speedtest.net&sid=e2#%40REDFREE8
 
