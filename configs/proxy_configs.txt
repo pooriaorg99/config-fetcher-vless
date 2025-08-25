@@ -4,11 +4,9 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%61b28b406-0c4b-4923-f%659%61-081b6057c9cc@188.114.97.1:80?path=%2Ft%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY-t%65l%65g%72%61m%2C%40BINE%58%54IFY%3Fed%3D2560&security=none&encryption=none&host=b%69n%65%78t%76.%69%72%61nsh%65%65p.w%65b.t%72.&type=ws#%40REDFREE8
+vless://%65cc%65255%65-17d3-429b-8093-dd884f6%61ff7d@172.66.40.99:8080?path=%2F-L%69%562%72y%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL-%40LIGH%54NING6-%54EL--%40LIGH%54NING6-JOIN-%40LIGH%54NING6-%54EL--%40LIGH%54NING6%3Fed%3D2048&security=none&encryption=none&host=%54.ubuntu-l%69nu%78m%69%72%72o%72.%69%72&type=ws#%40REDFREE8
 
 vless://00026cc2-d2a5-41b2-86a0-2c5fb2e5018d@104.17.242.183:443/?type=ws&encryption=none&flow=&host=sg.xyxy.dpdns.org&path=%2F00026cc2&security=tls&sni=sg.xyxy.dpdns.org#%40REDFREE8
-
-vless://0518ca46-4313-45ce-df4d-5268c1b30cf2@chat.openai.com:8080?path=%2Folem%2Fws%3Fed%3D1024&security=none&encryption=none&host=shad.ir.fin.test.digicyber.click.&type=ws#%40REDFREE8
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%40REDFREE8
 
@@ -38,25 +36,27 @@ vless://172ed5fd-83a6-469e-863c-50e251a6c17d@zula.ir:443?path=%2F%3Fed%3D2560&se
 
 vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=analytics.google.com&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f#%40REDFREE8
 
+vless://1a5ba606-a4f6-4a01-d9bc-7dce3b246851@www.speedtest.net:8880?path=%2F%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config-%40Alfred_Config%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#%40REDFREE8
+
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40REDFREE8
-
-vless://1f21f605-917%61-4b31-8415-c%61d059b4%61%65%614@104.26.10.194:80?path=%2F%40%76m%65sso%72g----%40%76m%65sso%72g-----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g----%40%76m%65sso%72g%3Fed%3D2480&security=none&encryption=none&host=%56m%65sso%72g.p%61%72%61do%78on%65.%69%72&type=ws#%40REDFREE8
-
-vless://1f21f605-917a-4b31-8415-cad059b4aea4@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed%3D2480&security=none#%40REDFREE8
-
-vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
-
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=SeRvER07.VtNEt.InFO&type=ws#%40REDFREE8
-
-vless://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?security=reality&encryption=none&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=learn.microsoft.com&sid=63cace289fb97072#%40REDFREE8
 
 vless://2d47a067-fa29-4d62-b596-b58c8782e880@185.232.152.17:12243/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
 
-vless://2e700ecb-c913-4711-8078-2d50344a1559@93.115.240.74:15600?type=ws&security=none#%40REDFREE8
-
 vless://33707040-edcf-4185-94e4-2a071315c602@5.75.196.173:443/?type=tcp&encryption=none&flow=&sni=vpn_proxy_channel_vpn_proxy_channel.hohod.ir&fp=chrome&security=reality&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&sid=7def4dde#%40REDFREE8
 
-vless://33e19f0b-1c7d-495d-9c50-81eec51d5195@91.107.131.148:51476?security=&encryption=none&headerType=none&type=tcp#%40REDFREE8
-
 vless://34c9f621-0614-4b7f-aab3-c4400bb15a89@45.83.20.34:58164?security=reality&encryption=none&pbk=7cbcFHSx2vqz38zW9BmlSIHTTSdNtlgv_S5uZ0MSIAE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=788456bc#%40REDFREE8
+
+vless://362df37b-63ab-44d1-bdb1-c5fc52512b3d@104.21.63.171:2052/?type=ws&encryption=none&flow=&host=wWw.SpeedtesT.net.xn--hibye-hg1hw1ovzaf50bop5bc33awx0ajxfqk4giqq.store.&path=%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET--%40Maznet--%40MAZNET%3Fed%3D2048#%40REDFREE8
+
+vless://367991e3-a5cc-4b1a-fed8-2efe19933291@5.231.26.127:25360/?type=grpc&encryption=none&flow=&serviceName=%40Zerov2shop#%40REDFREE8
+
+vless://392af9cc-9d20-41fb-9509-ee53090fe2ae@157.180.23.58:2052/?type=grpc&encryption=none&flow=&serviceName=%40seyyedmt-%40seyyedmt%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt-%40seyyedmt&sni=wordpress.org&fp=chrome&security=reality&pbk=BamXEb50W1rXENIC96WfSvMiFGE7hnbu_GcXkBv-8H8&sid=4156caa9#%40REDFREE8
+
+vless://3d8d5627-62c0-491a-ad68-0079983f95e1@185.168.194.59:41445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=eb0fWFAevT3a_BqrfJ2dLhY_Hv910o9LSmaumdZpIyQ&sid=f8a537#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#%40REDFREE8
+
+vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#%40REDFREE8
 
