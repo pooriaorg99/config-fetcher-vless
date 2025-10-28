@@ -16,6 +16,8 @@ vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394/?type=tcp&encr
 
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c2fa#%40REDFREE8
 
+vless://03ed82a4-0dea-46f6-c360-e8f9b52a1fe1@178.62.38.217:2096?type=grpc&encryption=none&serviceName=&authority=&security=reality&pbk=_BSvscSk78rGaJGR37oPCezKH0jfztKtdCOj9rRZGFY&fp=chrome&sni=zula.ir&sid=&spx=%2F#%40REDFREE8
+
 vless://045eb821-bdae-43c5-8945-9cb181e65dcb@77.110.109.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ad.mail.ru&fp=chrome&security=reality&pbk=MIVrDwJBfit7cvJlTyt4z8So78Sidkb0cZFy5BW2NRE&sid=96#%40REDFREE8
 
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.209.15:22224/?type=ws&encryption=none&flow=&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk#%40REDFREE8
@@ -54,9 +56,7 @@ vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?security=reality
 
 vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%40REDFREE8
 
+vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
+
 vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&type=ws&sni=smrtwtsm.confappha.com#%40REDFREE8
-
-vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#%40REDFREE8
-
-vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443/?type=ws&encryption=none&flow=&host=smrtwtsm.confappha.com&path=%2F&security=tls&sni=smrtwtsm.confappha.com#%40REDFREE8
 
