@@ -56,7 +56,7 @@ vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666?security=reality
 
 vless://0ba6ab83-ed33-4544-98b0-dcacb52799cd@109.120.150.205:443?security=reality&encryption=none&pbk=GofDu1_VYmj-QvNZZShKrPEw5_rAVDpxohAwZwJ8cjw&host=Join----JKVPN---Join----JKVPN----Join----JKVPN----Join----JKVPN&headerType=none&fp=chrome&spx=%2FTELEGRAM--CHANEL--JKVPN--JKVPN&type=tcp&flow=xtls-rprx-vision&sni=ad.mail.ru&sid=a60d#%40REDFREE8
 
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
+vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&type=ws&sni=smrtwtsm.confappha.com#%40REDFREE8
 
-vless://0d0782a3-2c62-4936-b893-5790188778ea@170.114.46.175:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&type=ws&sni=smrtwtsm.confappha.com#%40REDFREE8
+vless://0d0782a3-2c62-4936-b893-5790188778ea@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2F&security=tls&encryption=none&host=smrtwtsm.confappha.com&type=ws&sni=smrtwtsm.confappha.com#%40REDFREE8
 
