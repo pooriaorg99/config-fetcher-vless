@@ -16,8 +16,6 @@ vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 
 vless://0423f7a2-87bd-4302-95e2-c3c01881bdc7@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?encryption=none&security=tls&sni=DfVrMvWc0.SoLeRiOs.nEt&type=ws&alpn=h3h2&host=DfVrMvWc0.SoLeRiOs.nEt&path=/#%40REDFREE8
 
-vless://0a5ab719-2407-4398-b507-8437ef365023@104.21.31.4:8880?path=%2FFCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&encryption=none&host=underthegun.cfd.&type=ws#%40REDFREE8
-
 vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
 
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#%40REDFREE8
@@ -40,7 +38,7 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096?path=%2FTelegra
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%40REDFREE8
 
-vless://256b56b5-9079-4266-8777-c39fdcd87cd9@www.speedtest.net:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=amir-ebr.pages.dev#%40REDFREE8
+vless://2558c819-1363-4859-8fb9-f8cb104d49d2@176.223.66.8:39948/?encryption=none&flow=&host=divarcdn.com&type=tcp&headerType=http#%40REDFREE8
 
 vless://2836c061-ea09-45e5-a98e-4ca478e744b0@172.66.47.63:2083?path=%2FkbQ09oXGr8jE2RIC%2FY2RuLWIxMDAueG4tLWI2Z2FjLmV1Lm9yZw&security=tls&encryption=none&host=Add-1Cv.PAGes.deV&fp=random&type=ws&sni=Add-1Cv.PAGes.deV#%40REDFREE8
 
@@ -48,15 +46,17 @@ vless://2a2d5f5d-6acb-438f-ba25-f3cbc6614b63@51.38.232.101:80?path=%2Fvless%2F&s
 
 vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#%40REDFREE8
 
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#%40REDFREE8
-
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@155.212.110.2:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid=#%40REDFREE8
+
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU&sid=#%40REDFREE8
+
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.3:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=LthJBtl69pQPsGvMQNNe100a9YyqaTXdaIY8gzOF2HU&sid=#%40REDFREE8
+
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#%40REDFREE8
+
+vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.6:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&sid=#%40REDFREE8
 
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.202.12.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=BqPcbcS0agCOmW5xem5nQldi_2oGariVJdJZ6Q57810&sid=#%40REDFREE8
 
 vless://40730d97-ffa7-1108-2c53-761516eb5fda@193.31.127.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=ehRbIcN9HhqjhReY1pjqIBGqHCbdY26Kq70_w7k4jgY&sid=#%40REDFREE8
-
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.148.233.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=eJeVlxdi2YBV1YpPVCcCgTez80y8ny27SQoZZVBFGyc&sid=#%40REDFREE8
-
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@45.159.23.10:993/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=wcgZB6t2VBnMQf55huXkibGw4RPL6WqXPfcZxhJ8Qms&sid=#%40REDFREE8
 
