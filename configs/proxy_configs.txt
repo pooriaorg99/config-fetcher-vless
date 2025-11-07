@@ -4,11 +4,9 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://01bd7910-efd5-4350-8bbf-64093e179ff3@151.101.3.8:80?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=fotofactory.pk&type=xhttp#%40REDFREE8
+
 vless://08704c01-7edb-454a-98a2-328ccb9936fa@45.88.183.156:12794/?type=tcp&encryption=none&flow=#%40REDFREE8
-
-vless://0a5ab719-2407-4398-b507-8437ef365023@104.21.31.4:8880?path=%2FFCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&security=none&encryption=none&host=underthegun.cfd.&type=ws#%40REDFREE8
-
-vless://0cc9d390-42ee-461e-94ae-e4370883dc48@77.73.238.191:29505/?type=ws&encryption=none&flow=&path=%2F#%40REDFREE8
 
 vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934/?type=tcp&encryption=none#%40REDFREE8
 
@@ -20,11 +18,7 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443/?type=ws&encrypt
 
 vless://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053/?type=ws&encryption=none&flow=&host=om3.omidsuccess.uk&path=%2Fcontainers%2Fde&security=tls&sni=om3.omidsuccess.uk#%40REDFREE8
 
-vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#%40REDFREE8
-
 vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#%40REDFREE8
-
-vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40REDFREE8
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.193.31.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%40REDFREE8
 
@@ -48,15 +42,21 @@ vless://2ac2a3ac-49ec-4cf1-90fd-252b7fad9fbe@51.195.119.204:80?path=%2Fvless%2F&
 
 vless://2cf21f7f-9f29-44b0-893d-08a6e2e09704@109.123.229.205:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dash.cloudflare.com&security=reality&pbk=ci7VwV3lQURNI2oRR3GDdkBbHXh0zbSeqciL7tiKO10&sid=#%40REDFREE8
 
-vless://2e03cdd6-64e9-4aa6-bc00-ea522f845808@m10a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#%40REDFREE8
-
-vless://2ff03d8e-6ae3-4e2b-96d2-5b72fa7f8858@151.101.3.8:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=starboy.ir&type=xhttp#%40REDFREE8
-
-vless://2ff03d8e-6ae3-4e2b-96d2-5b72fa7f8858@test.fast.hosting-ip.com:80?mode=auto&path=%2FJoin----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420---Join----EXPRESSVPN_420&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=starboy.ir&type=xhttp#%40REDFREE8
-
-vless://393044fb-755a-4623-965e-3ae4fe39d730@83.222.20.64:53299?path=%2F&security=none&encryption=none&fp=chrome&type=ws#%40REDFREE8
-
 vless://46615c49-e794-470d-9e65-2deaca461378@deu406.unboundaccess.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.screwfix.com&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid=#%40REDFREE8
 
 vless://4710b85a-66e6-411b-b492-0e0f7366ad21@104.18.13.51:443/?type=ws&encryption=none&flow=&host=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&path=%2Fws&security=tls&sni=rAyAn-cOnFiG-fr-2.pArSa.dPdNs.oRg&fp=chrome#%40REDFREE8
+
+vless://48caa578-241e-43eb-817f-0854b84b0fb0@www.speedtest.net:443?path=%2Fedrlz7qvRheKjll8%2FMTQ0LjI0LjkwLjEwNw%3D%3D%3Fed%3D2560fp%3Drandomized&security=tls&encryption=none&host=conFiG-VOrteX55-AR5.pagES.deV&fp=randomized&type=ws&sni=conFiG-VOrteX55-AR5.pagES.deV#%40REDFREE8
+
+vless://4f244cbc-7184-4106-a084-eebe0058fdf8@151.101.3.8:80?mode=auto&path=%2FJoin-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZEDMODEON&security=&encryption=none&host=shaldbllu.global.ssl.fastly.net&type=xhttp#%40REDFREE8
+
+vless://534c7ec3-b2db-4363-b85f-ca8f6e15f237@151.101.3.8:80?type=xhttp&encryption=none&path=%2FCHANNEL---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY---ELiV2-RAY&host=movie.ir&mode=auto&security=none#%40REDFREE8
+
+vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%40REDFREE8
+
+vless://558393ec-d70d-4a05-b412-e59f2436cc14@104.167.199.95:80/?type=ws&encryption=none&flow=&host=---%40ShadowProxy66---%40ShadowProxy66---&path=%2Fvless%2F#%40REDFREE8
+
+vless://579bf6de-6cbd-44b3-8b4e-95eaa891b546@194.182.79.236:24550?mode=gun&security=&encryption=none&type=grpc&serviceName=ZE%44MO%44EON-ZE%44MO%44EON-bia-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON-ZE%44MO%44EON#%40REDFREE8
+
+vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#%40REDFREE8
 
