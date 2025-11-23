@@ -30,11 +30,13 @@ vless://1e503e46-5ab8-4f79-8cd1-73bac4bcd102@104.234.4.120:8080?security=reality
 
 vless://1ea570c2-8adb-4f6e-9eef-182c8a6076c2@m62a.vip784.com:33801?security=none&type=tcp&headerType=http&path=%2F&host=varzesh3.ir#%40REDFREE8
 
-vless://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443?encryption=none&security=tls&sni=638991995737738113.swift-amsib.info&type=ws&host=638991995737738113.swift-amsib.info&path=/ahkthyws#%40REDFREE8
+vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:23803?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&type=tcp#%40REDFREE8
+
+vless://1fe1b7e2-e3ec-44ba-b440-c038ddcee40d@sky.ns.cloudflare.com:443/?type=ws&encryption=none&flow=&host=638991995737738113.swift-amsib.info&path=%2Fahkthyws&security=tls&sni=638991995737738113.swift-amsib.info#%40REDFREE8
 
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&fp=chrome&type=ws&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#%40REDFREE8
 
-vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&host=google.com&type=ws#%40REDFREE8
+vless://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80/?type=ws&encryption=none&flow=&host=google.com&path=%2Fvless%2F#%40REDFREE8
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@154.197.121.253:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=fast01.0860852.xyz&fp=chrome&type=ws&sni=fast01.0860852.xyz#%40REDFREE8
 
@@ -45,8 +47,6 @@ vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?path=%2FTelegra
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.202.211.253:2096/?type=ws&encryption=none&flow=&host=fast01.0860852.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560&security=tls&sni=fast01.0860852.xyz#%40REDFREE8
 
 vless://2456f90c-5183-476d-b069-16ae74ce120f@45.40.151.253:2096?security=tls&encryption=none&type=ws&sni=fast01.0860852.xyz#%40REDFREE8
-
-vless://289f0d70-5985-46e9-b05a-9f66f821f47d@aurora.ns.cloudflare.com:443?path=%2Fassets%3Fed%3D512&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=asli25hpgyrsalina.gladiyator-dl.ir&fp=chrome&type=ws&sni=asli25hpgyrsalina.gladiyator-dl.ir#%40REDFREE8
 
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.16.33.150:2096?encryption=none&security=tls&sni=vless.hubp.de&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=ws&host=vless.hubp.de#%40REDFREE8
 
