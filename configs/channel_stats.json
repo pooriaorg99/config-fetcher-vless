@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-12-27T18:31:03.206062+00:00",
+  "timestamp": "2025-12-27T20:24:21.674755+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
@@ -31,11 +31,11 @@
         "total_configs": 24336,
         "valid_configs": 154,
         "unique_configs": 154,
-        "avg_response_time": 0.01,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 75.14,
-        "last_success": "2025-12-27T18:31:03.203723+00:00",
+        "overall_score": 74.98,
+        "last_success": "2025-12-27T20:24:21.672372+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
