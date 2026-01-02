@@ -4,17 +4,17 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://05071212-5966-430d-a53b-d4472581ddc8@144.31.0.143:8443/?type=grpc&encryption=none&flow=&serviceName=google.com&sni=google.com&fp=chrome&security=reality&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#%40REDFREE8
+
+vless://05071212-5966-430d-a53b-d4472581ddc8@144.31.0.77:8443/?type=grpc&encryption=none&flow=&serviceName=google.com&sni=google.com&fp=chrome&security=reality&pbk=12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM&sid=cdce15b3e2179ce8#%40REDFREE8
+
+vless://052df1a5-f53f-46dc-8aeb-7ed893310551@185.221.222.202:31779/?type=tcp&encryption=none&flow=#%40REDFREE8
+
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%40REDFREE8
 
 vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&type=ws&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=026.electrocellco-cf-026.workers.dev&alpn=http%2F1.1&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&fp=chrome&encryption=none#%40REDFREE8
 
 vless://07288721-1200-4c2f-a6ce-7ef59c4f8e22@78.159.247.74:5444?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=6ba85179e30d4fc2#%40REDFREE8
-
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.147.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%40REDFREE8
-
-vless://087ddd93-b412-460c-a803-d796312d0ad0@104.17.148.22:2095?path=%2F&security=none&encryption=none&host=uk9.hope-pls.ir&type=ws#%40REDFREE8
-
-vless://087ddd93-b412-460c-a803-d796312d0ad0@www.speedtest.net:2095/?type=ws&encryption=none&flow=&host=uk9.hope-pls.ir&path=%2F#%40REDFREE8
 
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?security=none&type=ws&path=%2F%3Fed%3D2560&host=soft-wave-5d2a.kyng-ayaan.workers.dev&sni=soft-wave-5d2a.kyng-ayaan.workers.dev&encryption=none#%40REDFREE8
 
@@ -34,9 +34,7 @@ vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=%2Fsnippets&
 
 vless://12345678-1234-1234-1234-123456789123@74.49.215.61:2096?path=%2Fsnippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#%40REDFREE8
 
-vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
-
-vless://125ea501-6bbe-453a-ab42-352789be8154@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&packetEncoding=xudp#%40REDFREE8
 
 vless://125ea501-6bbe-453a-ab42-352789be8154@45.81.113.60:4656/?type=tcp&encryption=none&flow=#%40REDFREE8
 
@@ -59,4 +57,6 @@ vless://154b4f23-a05d-41d1-af8f-23580510e258@144.31.90.249:443/?type=tcp&encrypt
 vless://154b4f23-a05d-41d1-af8f-23580510e258@144.31.90.251:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my-rebar.shop&fp=chrome&security=reality&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&sid=#%40REDFREE8
 
 vless://154b4f23-a05d-41d1-af8f-23580510e258@45.144.53.124:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my-rebar.shop&fp=chrome&security=reality&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&sid=#%40REDFREE8
+
+vless://154b4f23-a05d-41d1-af8f-23580510e258@45.144.53.177:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my-rebar.shop&security=reality&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&sid=#%40REDFREE8
 
