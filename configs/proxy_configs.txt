@@ -4,7 +4,7 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80?path=%2Fwww.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net%3Fed%3D32143&security=none&encryption=none&host=visvuev-272526281716252527717252.poshakhowdy.ir.&type=ws#%40REDFREE8
+vless://%F0%9F%91%89%F0%9F%91%89BanV2ray%F0%9F%91%88%F0%9F%91%88@bastion.h3.speed.cloudflare.com:80/?type=ws&encryption=none&flow=&host=visvuev-272526281716252527717252.poshakhowdy.ir.&path=%2Fwww.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.speedtest.net-www.speedtest.net-www.bunny.net-www.bunny.net-www.speedtest.net-www.bunny.net-www.speedtest.net%3Fed%3D32143#%40REDFREE8
 
 vless://00000000-0000-0000-0000-000000000000@104.16.142.237:2095/?type=ws&encryption=none&flow=&host=fangbinxingnmsl.pusytroller.cf&path=%2F#%40REDFREE8
 
@@ -12,9 +12,9 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryp
 
 vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&type=ws&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=026.electrocellco-cf-026.workers.dev&alpn=http%2F1.1&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&fp=chrome&encryption=none#%40REDFREE8
 
-vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&type=ws&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&host=elenaaaaaaaaaa.cloudns.pro.&encryption=none#%40REDFREE8
+vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#%40REDFREE8
 
-vless://0a49a5cb-526c-471d-b08e-1a52d52ee635@france.streamvault-premium.site:80/?type=ws&encryption=none&flow=&host=france.streamvault-premium.site&path=%2Fvless#%40REDFREE8
+vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&type=ws&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&host=elenaaaaaaaaaa.cloudns.pro.&encryption=none#%40REDFREE8
 
 vless://0c07016f-6238-4a17-a414-ab0ecd8a8b5e@npmjs.com:80?security=none&type=ws&path=%2F%3Fed%3D2560&host=soft-wave-5d2a.kyng-ayaan.workers.dev&sni=soft-wave-5d2a.kyng-ayaan.workers.dev&encryption=none#%40REDFREE8
 
@@ -56,7 +56,7 @@ vless://1a0d2a22-7304-462c-9bab-bf2ad1cd24c2@yd.3.hhhhh.eu.org:443/?type=ws&encr
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@104.19.73.126:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%40REDFREE8
 
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053?flow=&type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#%40REDFREE8
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F&security=tls&sni=sni.111000.dynv6.net&allowInsecure=1#%40REDFREE8
 
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%40REDFREE8
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.144.133:2096/?type=ws&encryption=none&flow=&host=sni.111000.cc.cd&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.cc.cd&allowInsecure=1&fp=chrome#%40REDFREE8
 
