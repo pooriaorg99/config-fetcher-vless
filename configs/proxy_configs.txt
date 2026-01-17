@@ -18,6 +18,8 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryp
 
 vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&type=ws&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=026.electrocellco-cf-026.workers.dev&alpn=http%2F1.1&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&fp=chrome&encryption=none#%40REDFREE8
 
+vless://087d8602-503b-4091-9f05-44c20792083c@185.143.233.235:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#%40REDFREE8
+
 vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80/?type=ws&encryption=none&flow=&host=oon.visaups.ir&path=%2F#%40REDFREE8
 
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&type=ws&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&host=elenaaaaaaaaaa.cloudns.pro.&encryption=none#%40REDFREE8
@@ -25,16 +27,6 @@ vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&typ
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%40REDFREE8
 
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#%40REDFREE8
-
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@162.159.249.92:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%40REDFREE8
-
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.171.106:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%40REDFREE8
-
-vless://2053d74c-2a3b-453b-b665-8e25142a7569@172.67.72.241:443?security=tls&type=ws&path=%2Fassets&host=shiny.revilseptember.workers.dev&alpn=http%2F1.1&sni=Shiny.REvilSeptembEr.WorkErs.dEv&fp=chrome&encryption=none#%40REDFREE8
-
-vless://250e7b31-785b-4047-98dc-b2264b9894f0@144.31.65.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.invisevps.ru&fp=chrome&security=reality&pbk=AlhGCsiUsIuKqyPJqTPZQhfhSwjkse3xjaE3V55xQiY&sid=#%40REDFREE8
-
-vless://250e7b31-785b-4047-98dc-b2264b9894f0@nl.invisevps.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.invisevps.ru&fp=chrome&security=reality&pbk=AlhGCsiUsIuKqyPJqTPZQhfhSwjkse3xjaE3V55xQiY&sid=#%40REDFREE8
 
 vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#%40REDFREE8
 
@@ -56,7 +48,15 @@ vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@www.speedtest.net:2096?path=%2FeyJq
 
 vless://32ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=%2F&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#%40REDFREE8
 
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@5.181.21.95:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#%40REDFREE8
+
 vless://3ceb7c2b-8aed-41b3-ad42-ba1e1a69bae5@pavosilene.qzz.io:443/?type=ws&encryption=none&flow=&path=%2F79.141.170.138%3A443&security=tls&sni=pavosilene.qzz.io&allowInsecure=1#%40REDFREE8
 
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.16.250.22:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1#%40REDFREE8
+
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.17.25.173:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#%40REDFREE8
+
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.18.185.26:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#%40REDFREE8
+
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.224.5:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&allowInsecure=1&fp=chrome#%40REDFREE8
 
