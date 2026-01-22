@@ -10,10 +10,6 @@ vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.109.47:1488/?type=tcp&encryp
 
 vless://00c49863-6d15-4289-9229-841ee5f7868c@51.250.99.190:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#%40REDFREE8
 
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.0.64:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn1.suio.me&allowInsecure=1&fp=chrome#%40REDFREE8
-
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.1.127:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn13.suio.me&allowInsecure=1&fp=chrome#%40REDFREE8
-
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@144.31.2.127:443/?type=tcp&encryption=none&flow=&security=tls&sni=plcdn20.suio.me&allowInsecure=1&fp=chrome#%40REDFREE8
 
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@77.221.137.44:443/?type=tcp&encryption=none&flow=&security=tls&sni=secdn13.suio.me&allowInsecure=1#%40REDFREE8
@@ -42,21 +38,25 @@ vless://052df1a5-f53f-46dc-8aeb-7ed893310551@185.221.222.202:31779?encryption=no
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%40REDFREE8
 
+vless://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?security=tls&encryption=none&host=ir3uk.airpanel.top&fp=chrome&type=ws&sni=ir3uk.airpanel.top#%40REDFREE8
+
 vless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?security=tls&type=ws&path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&host=026.electrocellco-cf-026.workers.dev&alpn=http%2F1.1&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&fp=chrome&encryption=none#%40REDFREE8
 
 vless://06e5efcd-9a5e-42c8-9307-bcdf901e0f83@51.38.30.155:2082/?type=ws&encryption=none&flow=&host=sr1.cloud-files-uploader.com&path=%2F#%40REDFREE8
 
 vless://0991a0c4-0ee5-4213-af89-7ad589f853f3@188.114.98.112:80?security=none&type=ws&path=%2FELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY----ELiV2-RAY%3Fed%3D2560&host=elenaaaaaaaaaa.cloudns.pro.&encryption=none#%40REDFREE8
 
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#%40REDFREE8
-
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%40REDFREE8
 
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.icloud.com&fp=chrome&security=reality&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&sid=#%40REDFREE8
+
+vless://1a09f2d5-20d6-4cac-f855-807c82e04766@Chatgpt.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=Emergency.electrov2ray.store&fp=chrome&type=ws&allowInsecure=1&sni=Emergency.electrov2ray.store#%40REDFREE8
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@141.193.213.21:2053?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#%40REDFREE8
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@172.64.146.20:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.cc.cd&fp=chrome&type=ws&sni=sni.111000.cc.cd#%40REDFREE8
 
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.148.107.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#%40REDFREE8
+
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.159.247.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army#%40REDFREE8
 
