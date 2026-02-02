@@ -12,11 +12,13 @@ vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=&encrypti
 
 vless://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?security=tls&encryption=none&host=ir3uk.airpanel.top&fp=chrome&type=ws&sni=ir3uk.airpanel.top#%40REDFREE8
 
+vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#%40REDFREE8
+
 vless://0665cf1e-0df8-4981-a8de-a366e37c0866@104.18.15.19:8443?encryption=none&security=tls&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&path=%2F%3Fed%3D2560#%40REDFREE8
 
-vless://0665cf1e-0df8-4981-a8de-a366e37c0866@ip.notomarosww.com:8443?path=%2FTel-%40V2rayAlpha%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net#%40REDFREE8
-
 vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@mianfeijiedianscp.buzz:443/?type=ws&encryption=none&flow=&host=mianfeijiedianscp.buzz&path=%2F&security=tls&sni=mianfeijiedianscp.buzz&allowInsecure=1#%40REDFREE8
+
+vless://0bdf406a-84a5-46a0-baf8-c1d85ad30d6b@217.16.25.173:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.ru&fp=chrome&security=reality&pbk=mhS5tgy6bzzFw_sOpdAGuKVS5MF1e0FjzimA92KnPUE&sid=#%40REDFREE8
 
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&flow=&headerType=http&host=Excoino.com&type=tcp#%40REDFREE8
 
@@ -32,31 +34,29 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality
 
 vless://16bb01c3-442b-4b09-8935-088bf50283f8@104.17.164.123:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=uqe0k8eq1y1werf27q2uz2m3v6rm1maloour.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=uqe0k8eq1y1werf27q2uz2m3v6rm1maloour.zjde5.de5.net#%40REDFREE8
 
-vless://1bc0b294-bbc8-471f-9d44-b3d4d270bed2@144.31.221.8:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&sid=#%40REDFREE8
-
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?security=&encryption=none&host=chess.com&headerType=http&type=tcp#%40REDFREE8
 
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#%40REDFREE8
 
-vless://1fbd6005-2228-44f4-b33e-d7845afd725d@python.org:80?path=%2Fsite&security=&encryption=none&host=yalandonya.global.ssl.fastly.net&type=ws#%40REDFREE8
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@37.27.240.154:42538?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40REDFREE8
+
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@91.98.27.174:4450?security=reality&encryption=none&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=play.google.com#%40REDFREE8
 
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@104.21.23.22:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&encryption=none&insecure=0&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&allowInsecure=0&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#%40REDFREE8
 
-vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@172.67.194.187:443?security=tls&encryption=none&insecure=1&host=teams.live.com.afrcloud1.c01.kr&type=ws&allowInsecure=1&sni=teams.live.com.afrcloud1.c01.kr#%40REDFREE8
+vless://21f9985c-d363-4eee-957f-720e9e9f9b8d@172.67.194.187:443?security=tls&encryption=none&host=teams.live.com.afrcloud1.c01.kr&type=ws&sni=teams.live.com.afrcloud1.c01.kr#%40REDFREE8
 
 vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.com&alpn=h2&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%40REDFREE8
 
 vless://22e7f0d3-8d3b-40c7-a1c5-8a912f6a16b3@188.114.96.3:443?path=%2Fmemo&security=tls&encryption=none&insecure=0&host=cdn.55994421.xyz&fp=chrome&type=ws&allowInsecure=0&sni=cdn.55994421.xyz#%40REDFREE8
 
+vless://24497ec6-9244-4781-869d-3b48dbb13361@157.180.79.18:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=XhVQYDFxZdYohty3YEqn7fuvJMJmq4e79477s81vWHc&sid=#%40REDFREE8
+
 vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#%40REDFREE8
 
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%40REDFREE8
 
-vless://295ca87a-d815-420d-9e4b-99cb1df05023@webfont.huntexfont.com:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=fonts.googleapis.com&path=/&headerType=http#%40REDFREE8
+vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=gozar1.i2fed.com&fp=chrome&type=ws&allowInsecure=0&sni=gozar1.i2fed.com#%40REDFREE8
 
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80?type=ws&security=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&path=/?ed#%40REDFREE8
-
-vless://2ac3e8c9-b521-4b2b-8b99-49e5b8d0d9d2@5.75.198.136:34823/?type=tcp&encryption=none&flow=#%40REDFREE8
-
-vless://2ade106e-03d1-4b5c-a9e2-43bc70c9e79b@162.159.152.81:2087?path=%2F&security=tls&encryption=none&insecure=1&host=www.pjw5.top&type=ws&allowInsecure=1&sni=www.pjw5.top#%40REDFREE8
 
