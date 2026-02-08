@@ -4,6 +4,8 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40REDFREE8
+
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40REDFREE8
 
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40REDFREE8
@@ -12,13 +14,13 @@ vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encry
 
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40REDFREE8
 
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#%40REDFREE8
+
 vless://016f56be-21ba-4c39-aa3d-2cc2c3ea9929@vip2.kaixincloud.top:8880/?type=ws&encryption=none&flow=&host=r-one.lat&path=%2FeyJqdW5rIjoicXNuOHJDRXhEdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3Fed%3D2560%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN#%40REDFREE8
 
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#%40REDFREE8
 
-vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?path=%2F&security=none&encryption=none&host=dayous.global.ssl.fastly.net&type=ws#%40REDFREE8
-
-vless://056d10f1-4ebd-40e1-9f78-c7e11fce5258@speedtest.net:80?path=%2Fdownload&security=&encryption=none&host=sabzb2.global.ssl.fastly.net&type=ws#%40REDFREE8
+vless://0569f3ce-447b-4ac5-aae3-b47ae55351f7@167.82.92.159:80?encryption=none&security=none&type=ws&host=dayous.global.ssl.fastly.net&path=%2F#%40REDFREE8
 
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40REDFREE8
 
@@ -28,19 +30,11 @@ vless://062a230c-211d-4569-958d-dddf2c3aa613@104.18.32.47:2053?security=tls&encr
 
 vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&path=%2FgetWorkerUpdates&security=none&type=ws#%40REDFREE8
 
-vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@104.21.13.210:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#%40REDFREE8
-
-vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@172.64.80.1:443?path=%2F&security=tls&encryption=none&insecure=0&host=mianfeijiedianscp.buzz&type=ws&allowInsecure=0&sni=mianfeijiedianscp.buzz#%40REDFREE8
-
-vless://0b3ad86e-1818-49bb-949d-4e85d137a16d@mianfeijiedianscp.buzz:443/?type=ws&encryption=none&flow=&host=mianfeijiedianscp.buzz&path=%2F&security=tls&sni=mianfeijiedianscp.buzz&allowInsecure=1#%40REDFREE8
-
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&flow=&headerType=http&host=Excoino.com&type=tcp#%40REDFREE8
 
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#%40REDFREE8
 
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%40REDFREE8
-
-vless://10d915a7-4835-4337-979b-7bf220001b22@b.Mehfa.site:80?mode=auto&path=%2F&security=none&encryption=none&host=Mehfa.site&type=xhttp#%40REDFREE8
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40REDFREE8
 
@@ -59,4 +53,10 @@ vless://22418064-ba0f-42a2-8838-3c005733cec7@95.141.35.101:443/?type=tcp&encrypt
 vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?encryption=none&headerType=http&host=iranserver.com&security=none&type=tcp#%40REDFREE8
 
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%40REDFREE8
+
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40REDFREE8
+
+vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%40REDFREE8
+
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#%40REDFREE8
 
