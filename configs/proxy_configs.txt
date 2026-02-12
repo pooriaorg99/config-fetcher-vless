@@ -26,9 +26,9 @@ vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?enc
 
 vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182/?encryption=none&flow=&host=Excoino.com&type=tcp&headerType=http#%40REDFREE8
 
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#%40REDFREE8
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?encryption=none&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&insecure=1&type=xhttp&path=%2Fsreztjsterw4j&mode=auto#%40REDFREE8
 
-vless://0e6cd6ca-fba2-4b86-923c-f0a021f7ad15@142.132.140.143:1003?type=tcp&security=none#%40REDFREE8
+vless://133d44b7-170e-41cd-a0cc-0b35470823bb@195.201.222.173:32916/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=Vf2gG3NUXw728geRwr-lSqNf1xz8VZwm29FRkimd_WU&sid=da04ffda#%40REDFREE8
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40REDFREE8
 
@@ -36,21 +36,13 @@ vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&security
 
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&security=reality&sni=www.amazon.com&type=tcp#%40REDFREE8
 
-vless://193c75c1-1af1-484a-84ec-14de4828d209@ca.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#%40REDFREE8
-
-vless://193c75c1-1af1-484a-84ec-14de4828d209@hk.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%40REDFREE8
-
-vless://193c75c1-1af1-484a-84ec-14de4828d209@jp.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%40REDFREE8
-
-vless://193c75c1-1af1-484a-84ec-14de4828d209@lv.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#%40REDFREE8
-
-vless://193c75c1-1af1-484a-84ec-14de4828d209@ua.griffon-guard.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=apple.com&type=tcp#%40REDFREE8
-
-vless://193c75c1-1af1-484a-84ec-14de4828d209@us.griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&security=reality&sni=ebay.com&type=tcp#%40REDFREE8
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#%40REDFREE8
 
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?security=&encryption=none&host=chess.com&headerType=http&type=tcp#%40REDFREE8
 
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#%40REDFREE8
+
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#%40REDFREE8
 
 vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@104.21.23.22:443?path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&encryption=none&insecure=0&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&allowInsecure=0&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev#%40REDFREE8
 
@@ -59,4 +51,12 @@ vless://204fae2e-ab13-4ba8-a59b-ec37bbcf0e68@89.125.39.127:32354?encryption=none
 vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443/?type=ws&encryption=none&flow=&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com&allowInsecure=1#%40REDFREE8
 
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%40REDFREE8
+
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40REDFREE8
+
+vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%40REDFREE8
+
+vless://2b24d886-ef95-46e1-9c70-3fcbb8c7b283@deu60.worldunlocker.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%40REDFREE8
+
+vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&alpn=h2&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%40REDFREE8
 
