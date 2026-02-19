@@ -24,6 +24,8 @@ vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443/?type=w
 
 vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443/?type=tcp&encryption=none&flow=&security=tls&sni=b12a6eea4807ca4e.1323.world&alpn=h2&allowInsecure=1#%40REDFREE8
 
+vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rapidpars.com&fp=chrome&security=reality&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45#%40REDFREE8
+
 vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#%40REDFREE8
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40REDFREE8
@@ -38,7 +40,7 @@ vless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@104.21.23.22:443?path=%2FeyJqdW5rIj
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#%40REDFREE8
 
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=%2Fpabloping%3Fvpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40REDFREE8
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?encryption=none&host=pablo-n2.digionix.ir&mode=auto&path=%2Fpabloping&security=none&type=xhttp#%40REDFREE8
 
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#%40REDFREE8
 
@@ -50,13 +52,11 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?mode=auto&path=%2
 
 vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#%40REDFREE8
 
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80/?type=ws&encryption=none&flow=&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2Fvless%2F#%40REDFREE8
+
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40REDFREE8
 
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=%2F&security=tls&sni=ipv4.yasharteam.com&allowInsecure=1#%40REDFREE8
+
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=%2F&security=tls&sni=ipv4.yasharteam.com&allowInsecure=1#%40REDFREE8
-
-vless://2749534e-8bd1-45cf-8b17-c28bed9236c0@176.120.67.169:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=wikimedia.org&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#%40REDFREE8
-
-vless://28cdbb46-1309-45fb-92f0-6a761bc30236@195.201.222.173:31232/?type=grpc&encryption=none&flow=&serviceName=%40mahdi_383ir&sni=tgju.org&fp=chrome&security=reality&pbk=YMUFe3eUfODM1B0huGgXNxdZLtQczEzSHS3a1TJXyGQ&sid=280a1eae36#%40REDFREE8
-
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443/?type=ws&encryption=none&flow=&host=o00o.snip.qzz.io&path=%2Ftel-%40v2rayngzendegimamad%40v2rayngzendegimamad&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#%40REDFREE8
 
