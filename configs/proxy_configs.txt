@@ -22,9 +22,11 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryp
 
 vless://057b649c-54b1-4f68-86b1-90381637a2cf@152.53.33.43:443?security=&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40REDFREE8
 
-vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=80bab3a2.gon-7ye.pages.dev&type=ws&allowInsecure=1&sni=80bab3a2.gon-7ye.pages.dev#%40REDFREE8
+vless://081efe27-f6b8-4f60-aedb-3c9effe9c67d@poe.com:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=80bab3a2.gon-7ye.pages.dev&path=%2F&security=tls&sni=80bab3a2.gon-7ye.pages.dev&type=ws#%40REDFREE8
 
 vless://09825436-5781-496b-83bd-b992f7b6ef0f@104.18.32.47:8443?allowInsecure=1&encryption=none&host=xpb.parsfast.ir&path=%2F&security=tls&sni=xpb.parsfast.ir&type=ws#%40REDFREE8
+
+vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?mode=auto&path=%2Fsreztjsterw4j&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=drive.speegy.club#%40REDFREE8
 
@@ -46,17 +48,15 @@ vless://14818654-7689-453a-9a1f-4c72f89782d5@riga-node.genadata.online:2040/?typ
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&encryption=none&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com#%40REDFREE8
 
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#%40REDFREE8
+
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.43.117:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#%40REDFREE8
 
 vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F%3Fed%3D2560fp%3Dchrome#%40REDFREE8
 
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?allowInsecure=1&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&path=%2F&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&type=ws#%40REDFREE8
+
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#%40REDFREE8
 
 vless://19a1e5b1-6289-4fe6-9aad-be285510942d@5.255.100.32:8080/?encryption=none&flow=&host=check-host.net&type=tcp&headerType=http#%40REDFREE8
-
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#%40REDFREE8
-
-vless://1e823993-86ac-3ead-89b5-227e73825fdb@104.18.38.47:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%40REDFREE8
-
-vless://1e823993-86ac-3ead-89b5-227e73825fdb@v3.dabache.top:443/?type=ws&encryption=none&flow=&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&security=tls&sni=dabaif0.webn.cc&allowInsecure=1#%40REDFREE8
 
