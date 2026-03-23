@@ -54,9 +54,9 @@ vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@172.64.155.209:443?allowInsecure=1&
 
 vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@saas.sin.fan:443?allowInsecure=1&encryption=none&host=fancy-haze-01e3.ipv4-917.workers.dev&path=%2F&security=tls&sni=fancy-haze-01e3.ipv4-917.workers.dev&type=ws#%40REDFREE8
 
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%40REDFREE8
+
 vless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@172.67.173.9:2053?allowInsecure=1&encryption=none&host=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&path=%2FeyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&type=ws#%40REDFREE8
 
 vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.164.44:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
-
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.16.30.239:80?encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
