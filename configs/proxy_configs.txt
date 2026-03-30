@@ -26,6 +26,8 @@ vless://0833debf-4a9e-4c31-a5b7-a88574bddf18@saas.sin.fan:443?allowInsecure=1&en
 
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@108.162.192.133:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%40REDFREE8
 
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@172.64.32.133:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%40REDFREE8
+
 vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@lucy.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=rivvers.info&path=%2Fresgdws&security=tls&sni=rivvers.info&type=ws#%40REDFREE8
 
 vless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@172.67.173.9:2053?allowInsecure=1&encryption=none&host=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&path=%2FeyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D&security=tls&sni=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&type=ws#%40REDFREE8
@@ -57,6 +59,4 @@ vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@chatgpt.com:443?allowInsecure=1&enc
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.12.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
-
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%40REDFREE8
 
