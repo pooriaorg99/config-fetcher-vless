@@ -20,6 +20,8 @@ vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&ho
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.16:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.16%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.21:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.21%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
+
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.6%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
@@ -57,6 +59,4 @@ vless://1027b850-de79-4a94-b337-eccdac28e141@104.18.32.47:443?allowInsecure=1&en
 vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%40REDFREE8
 
 vless://1027b850-de79-4a94-b337-eccdac28e141@172.64.155.209:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%40REDFREE8
-
-vless://1027b850-de79-4a94-b337-eccdac28e141@chatgpt.com:443?encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%40REDFREE8
 
