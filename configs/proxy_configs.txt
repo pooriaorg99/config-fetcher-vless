@@ -40,6 +40,8 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.26:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.26%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.2:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.2%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
+
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.32:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.32%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.33:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.33%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
@@ -50,13 +52,11 @@ vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.36:7443?allowInsecure=1
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.3:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.3%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.45:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.45%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
+
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.47:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.47%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.4:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.4%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.50:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.50%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
-
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.60:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.60%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
-
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.6:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.6%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
