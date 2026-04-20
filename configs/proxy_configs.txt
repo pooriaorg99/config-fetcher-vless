@@ -4,6 +4,10 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@104.18.16.56:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&insecure=0&host=2026.hhhhh.eu.org&type=ws&allowInsecure=0&sni=2026.hhhhh.eu.org#%40REDFREE8
+
+vless://06ef598c-1555-4887-b3f9-08214a2f6792@172.64.149.54:443?path=%2F222.167.202.31%3A7443&security=tls&encryption=none&host=2026.hhhhh.eu.org&fp=chrome&type=ws&sni=2026.hhhhh.eu.org#%40REDFREE8
+
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.45:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.45%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
 
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.47:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.47%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#%40REDFREE8
@@ -55,8 +59,4 @@ vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?encryption=none&h
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@172.64.155.209:2052/?type=ws&encryption=none&flow=&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F#%40REDFREE8
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
-
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?encryption=none&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
-
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@172.66.40.139:443?allowInsecure=1&encryption=none&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&type=ws#%40REDFREE8
 
