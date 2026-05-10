@@ -4,18 +4,6 @@
 //support-url: https://t.me/redfree8
 //profile-web-page-url: https://github.com/4n0nymou3
 
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.19.35.216:443?allowInsecure=1&encryption=none&host=amirvpn.amirhm00100.workers.dev&path=%2F&security=tls&sni=amirvpn.amirhm00100.workers.dev&type=ws#%40REDFREE8
-
-vless://0f4d41cf-0be1-4fcc-ac41-53b843ba0752@172.66.44.118:443?allowInsecure=1&encryption=none&host=H7-83W.pAgeS.deV&security=tls&sni=H7-83W.pAgeS.deV&type=ws#%40REDFREE8
-
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#%40REDFREE8
-
-vless://11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf@104.21.75.235:443?allowInsecure=1&encryption=none&host=ancient-heart-60c5.dpccgizieb.workers.dev&path=%2FeyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV&type=ws#%40REDFREE8
-
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.12.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
-
-vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
-
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.32.47:2052?encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%F0%9F%94%92&security=none&type=ws#%40REDFREE8
 
 vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@172.64.155.209:2052/?type=ws&encryption=none&flow=&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F#%40REDFREE8
@@ -48,6 +36,14 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?allowInsecure=1
 
 vless://2de34838-1270-4fb0-bbe5-dfc9aa5c01a1@5.180.54.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#%40REDFREE8
 
+vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@digitalocean.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
+
+vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@hongkongairport.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
+
+vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@shopify.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
+
+vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@visa.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
+
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&security=none&type=ws#%40REDFREE8
@@ -59,4 +55,8 @@ vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers
 vless://36a857e4-f3d4-43aa-8b90-d7da849da989@172.67.164.152:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&type=ws#%40REDFREE8
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.160:80/?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=%2F#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.138.164:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80/?type=ws&encryption=none&flow=&host=vip.yaml7.ggff.net&path=%2F#%40REDFREE8
 
