@@ -20,17 +20,9 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.121.196:443?allowInsecure=1
 
 vless://2de34838-1270-4fb0-bbe5-dfc9aa5c01a1@5.180.54.54:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&security=reality&sni=www.microsoft.com&type=tcp#%40REDFREE8
 
-vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@cloudflare-ech.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
-
-vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@digitalocean.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
-
-vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@hongkongairport.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
-
-vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@shopify.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
-
-vless://2e14faa2-71aa-4dc6-8ba1-03beeca75848@visa.com:443?encryption=none&fp=chrome&host=xiaoli0772.pages.dev&path=%2F&security=tls&sni=xiaoli0772.pages.dev&type=ws#%40REDFREE8
-
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
+
+vless://2f0f84ed-9e4c-40ef-8a6c-286839e11a63@104.18.40.152:8880?encryption=none&host=hmedrza.ghwhdr51.workers.dev&path=%2F512&security=none&type=ws#%40REDFREE8
 
 vless://363a6072-05d7-48d5-8f19-312b05fdd9cd@104.18.13.229:2052?encryption=none&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&security=none&type=ws#%40REDFREE8
 
@@ -59,4 +51,12 @@ vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.72.206:80?encryption=none&ho
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.12.149:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%40REDFREE8
 
 vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.16.56:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.185.26:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.18.4.130:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.6.134:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F+%40ProxyVPN11&security=none&type=ws#%40REDFREE8
+
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.20.63.52:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#%40REDFREE8
 
