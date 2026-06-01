@@ -8,15 +8,15 @@ vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fv
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
 
-vless://15afc695-0be3-4c48-aa05-912bf15b4a95@snapp.ir:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&security=tls&sni=upload.yasinyasin.ir&fp=chrome&alpn=http%2F1.1&type=ws&host=t.yasinyasin.ir&path=%2Fxcore-9f3a7c1d2b4e%2F#%40REDFREE8
-
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp#%40REDFREE8
 
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#%40REDFREE8
 
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@144.31.207.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=1a&sni=www.deepl.com&type=tcp#%40REDFREE8
 
-vless://21f1af13-f6e9-4483-8a17-a521a665b335@germany.samanidempire.org:443?encryption=none&security=tls&type=ws&path=/reteweef&packetEncoding=xudp#%40REDFREE8
+vless://25263c14-6cb5-499b-b462-dd498deecfe7@de-on-demand.not-a-projects.xyz:47518?encryption=none&security=none&type=tcp#%40REDFREE8
+
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
@@ -28,19 +28,13 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%40REDFREE8
 
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#%40REDFREE8
+
 vless://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%40REDFREE8
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp#%40REDFREE8
 
 vless://3b01a777-55e7-49f6-8637-d94ee69607c6@202.37.33.81:443?encryption=none&fp=chrome&host=m.udemy.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=m.udemy.com.cyylr.eu.cc&type=ws#%40REDFREE8
-
-vless://41bc5a50-7c41-4078-9a2a-611ab1c6dddb@fsxhh.fastshop1.com:443?mode=packet-up&path=%2Flizzard&security=tls&encryption=none&insecure=0&host=lizzard.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=ssl.fastly.com#%40REDFREE8
-
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@217.163.76.118:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=360&type=ws&allowInsecure=0&sni=fl0.lizardshop.org#%40REDFREE8
-
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@63.141.128.5:2083?path=%2F%3Fed&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=mzaxmc.lizardshop.org#%40REDFREE8
-
-vless://41f37ced-2021-4111-93a8-82d57ff2eb5b@fx3033.game2lizard.com:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=mzaxmc0.lizard2shop.com&path=%2F&security=tls&sni=mzaxmc0.lizard2shop.com&type=ws#%40REDFREE8
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
 
@@ -59,4 +53,10 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encry
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.20:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.25:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.26:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#%40REDFREE8
 

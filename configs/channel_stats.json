@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-06-01T04:16:57.589316+00:00",
+  "timestamp": "2026-06-01T11:38:30.219694+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
@@ -28,18 +28,18 @@
       "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html",
       "enabled": true,
       "metrics": {
-        "total_configs": 18225,
-        "valid_configs": 114,
-        "unique_configs": 114,
-        "avg_response_time": 0.25,
+        "total_configs": 17161,
+        "valid_configs": 113,
+        "unique_configs": 113,
+        "avg_response_time": 0.04,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.78,
-        "last_success": "2026-06-01T04:16:57.587910+00:00",
+        "overall_score": 75.1,
+        "last_success": "2026-06-01T11:38:30.218283+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 114,
+          "vless://": 113,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 0,
