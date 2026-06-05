@@ -10,6 +10,8 @@ vless://0440e93c-a9d3-4998-aeaa-d0e2363131e4@172.64.48.201:443?encryption=none&f
 
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#%40REDFREE8
 
+vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&host=OV-Italy1.09vpn.com&path=%2Fvless%2F&security=none&type=ws#%40REDFREE8
+
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%40REDFREE8
 
 vless://0a4eabad-a6b8-4f4a-b610-4540b9c8f49a@188.114.97.6:443?encryption=none&security=tls&sni=ava.game.naver.com.cyylr.eu.cc&type=ws&host=ava.game.naver.com.cyylr.eu.cc&path=%2Fsg-orcl#%40REDFREE8
@@ -18,9 +20,13 @@ vless://12cb0a24-0438-4980-8617-9c93205895fa@162.159.34.103:2083?encryption=none
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
 
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
+
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@150.241.75.255:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@2.26.88.93:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
+
+vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@riga-node.datamove.online:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
@@ -28,27 +34,23 @@ vless://197f5e5c-fc15-4db6-8444-50248c2c394d@27.50.48.49:443?path=%2Fsg-amz&secu
 
 vless://19804f6b-3661-4eca-b294-ba37196dab5b@129.6.29.255:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=graph.instagram.com.cyylr.eu.cc&path=%2Fid-tksi&security=tls&sni=graph.instagram.com.cyylr.eu.cc&type=ws#%40REDFREE8
 
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#%40REDFREE8
+vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@216.24.57.1:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#%40REDFREE8
 
 vless://1ce9392f-caf4-48f7-bbb9-475b101fbde0@188.114.97.6:443?path=%2Fid-tksi&security=tls&encryption=none&host=graph.instagram.com.cyylr.eu.cc&type=ws&sni=graph.instagram.com.cyylr.eu.cc#%40REDFREE8
 
 vless://2001daf3-5c56-4bef-8ea6-8dd0493c5a4c@144.31.207.111:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sid=1a&sni=www.deepl.com&type=tcp#%40REDFREE8
 
-vless://20a25a96-61df-4a4f-8424-165fc9cfc84e@172.64.144.162:2096?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=empty-band-d17d.raana2710.workers.dev&path=%2F&security=tls&sni=empty-band-d17d.raana2710.workers.dev&type=ws#%40REDFREE8
-
-vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443?encryption=none&fp=chrome&host=investors.spotify.com.cyylr.eu.cc&path=%2Fin-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc&type=ws#%40REDFREE8
-
-vless://2309d24d-3ad9-48b6-8bd8-e50cfabde935@151.101.109.223:443?encryption=none&type=xhttp&mode=auto&host=Marosirisshop.global.ssl.fastly.net&path=/main-kh-out-1&security=tls&fp=chrome&sni=ssl.fastly.com&alpn=h2,http/1.1#%40REDFREE8
+vless://228639b0-48de-4162-a818-d5651ee297b3@27.50.48.49:443/?type=ws&encryption=none&flow=&host=investors.spotify.com.cyylr.eu.cc&path=%2Fin-do&security=tls&sni=investors.spotify.com.cyylr.eu.cc#%40REDFREE8
 
 vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.17.25.173:80?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=aa.beijng.dpdns.org&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://2399fe0a-b359-40a9-a3f0-b70c3c177a01@104.21.224.5:80?encryption=none&host=aa.beijng.dpdns.org&path=%2F&security=none&type=ws#%40REDFREE8
 
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#%40REDFREE8
-
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%40REDFREE8
 
 vless://266c0d10-d0f4-41f2-9d82-37cedf863fe7@216.24.57.1:443?path=%2Fin-pdr&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cyylr.eu.cc&fp=chrome&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=cyylr.eu.cc#%40REDFREE8
+
+vless://26e2b8e8-45d6-43fa-aec9-10f9ce8f7e68@45.130.125.194:8443?mode=auto&path=%2F%3Fed%3D2053&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=ssj.new-persian-song.ir#%40REDFREE8
 
 vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
@@ -57,6 +59,4 @@ vless://2dc797c8-9588-48a6-bc4a-265c23d87cd6@208.103.161.170:443?path=%2Fid-pusa
 vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#%40REDFREE8
 
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#%40REDFREE8
-
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.129.242.162:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=a1b2c3d4#%40REDFREE8
 
