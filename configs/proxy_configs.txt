@@ -10,13 +10,17 @@ vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/
 
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%40REDFREE8
 
+vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?#%40REDFREE8
+
+vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sdt.jison.ir&type=ws&allowInsecure=0&sni=fty.jison.ir#%40REDFREE8
+
 vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=%2FeyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#%40REDFREE8
 
 vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fvless%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#%40REDFREE8
 
 vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&security=reality&sid=b9988c11&sni=www.google.com&type=tcp#%40REDFREE8
 
-vless://122f8c58-f173-4f4a-acb8-86172ba5e10d@hostvds-nl-nl.kvnfreetest.uk:21443?encryption=none&fp=&pbk=PEPivzCg5cBehVQUMVJLNPx3A9hy719Fq7HQsXMp4Ro&security=reality&sni=cloudflare.com&type=tcp#%40REDFREE8
+vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%40REDFREE8
 
 vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=%2F&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#%40REDFREE8
 
@@ -29,6 +33,12 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=non
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
 vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=xyz&sni=play.google.com&type=grpc#%40REDFREE8
+
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40REDFREE8
+
+vless://21db6b31-6e8b-4307-9127-994c99606e15@85.90.207.152:23009?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
+
+vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#%40REDFREE8
 
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%40REDFREE8
 
@@ -49,14 +59,4 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%40REDFREE8
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.35.228:8443?allowInsecure=1&encryption=none&security=tls&sni=de1.fromblancwithlove.com&type=tcp#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.228.24:8443?encryption=none&security=tls&sni=bog-co-01.fromblancwithlove.com&type=tcp#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.245.5:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@178.249.213.177:8443?allowInsecure=1&encryption=none&security=tls&sni=jp1.fromblancwithlove.com&type=tcp#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@185.229.191.109:8443?allowInsecure=1&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%40REDFREE8
 
