@@ -10,9 +10,9 @@ vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@OV-Italy1.09vpn.com:80?path=/vless/
 
 vless://049e56d8-0ba0-49e3-b764-ee04122b9f00@ov-italy1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%40REDFREE8
 
-vless://05671cd1-ab2f-4f64-a926-b655f199a23d@104.194.148.56:22263?#%40REDFREE8
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?encryption=none&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%40REDFREE8
 
-vless://06a368f4-e62e-4486-97a1-4c60bb7a0eed@client.jison.ir:443?path=%2Fws&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=sdt.jison.ir&type=ws&allowInsecure=0&sni=fty.jison.ir#%40REDFREE8
+vless://073d1d50-8478-47bf-a828-7a1b381931d5@betty.ns.cloudflare.com:443?encryption=none&fp=chrome&host=octopusss.net&path=%2Fodiyfws&security=tls&sni=octopusss.net&type=ws#%40REDFREE8
 
 vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=%2FeyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#%40REDFREE8
 
@@ -24,15 +24,15 @@ vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&h
 
 vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=%2F&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#%40REDFREE8
 
-vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?path=%2Frdfgtws&security=tls&encryption=none&host=vangoghhh.info&type=ws&sni=vangoghhh.info#%40REDFREE8
 
-vless://14fcbcd4-2c96-4c30-b3ca-2e87ea8918d7@188.114.97.6:80?path=%2Fws-vlees&security=&encryption=none&host=app3.app-all-ccoo.com&type=ws#%40REDFREE8
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
-vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@seti.wizardp.org:2045?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=xyz&sni=play.google.com&type=grpc#%40REDFREE8
+vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@140.248.185.253:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40REDFREE8
 
 vless://1df05cde-34a0-44ce-8059-44a7b1e7782b@fast.cd-tur4.ir:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40REDFREE8
 
@@ -48,6 +48,8 @@ vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?encryption=none&
 
 vless://3007b043-acdf-43a4-900e-c7c015406f89@193.233.23.196:26048?encryption=none&security=none&type=tcp#%40REDFREE8
 
+vless://30d89a94-730b-4141-8eda-9280118bfab7@iiiiserver.imagician.shop:45617?mode=auto&path=%2FGyJhshsqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NkZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&host=digikala.com&type=xhttp#%40REDFREE8
+
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#%40REDFREE8
 
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#%40REDFREE8
@@ -57,6 +59,4 @@ vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?encryption=none
 vless://394f6981-a782-4779-9a85-e6cf22935d93@121.127.43.215:8443?encryption=none&security=tls&sni=qro-mx-01.fromblancwithlove.com&type=tcp#%40REDFREE8
 
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%40REDFREE8
-
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443/?type=tcp&encryption=none&flow=&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%40REDFREE8
 
