@@ -14,6 +14,8 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?flow=xtls-rprx-v
 
 vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.18.47.140:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=%2Fproxyip%3DProxyIP.JP.cmliussss.netfp%3Drandom&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#%40REDFREE8
 
+vless://06b65903-406d-4a41-8400-6fd5c0ee7798@162.159.40.181:2096?encryption=none&fp=chrome&host=sp.linuxdododo.ccwu.cc&path=%2Fproxyip%3DProxyIP.JP.cmliussss.net&security=tls&sni=sp.linuxdododo.ccwu.cc&type=ws#%40REDFREE8
+
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@159.112.235.52:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#%40REDFREE8
 
 vless://0779dc74-2464-461f-90ef-874e4cae7fae@188.114.96.3:2053?path=%2FeyJqdW5rIjoiUHQ4YzBma3IxczlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=weathered-math-1f8b.amiralighasempor010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=WeaTHeREd-MATH-1f8B.aMIRAligHasEMPoR010.WOrkERs.dEv#%40REDFREE8
@@ -26,13 +28,11 @@ vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@104.17.121.98:443?encryption=none&h
 
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=%2Fca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%40REDFREE8
 
-vless://0cc72cd6-29b2-4dcc-af4d-2907d19a0680@199.232.245.208:443?path=%2F&security=tls&encryption=none&insecure=1&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#%40REDFREE8
-
 vless://12cb0a24-0438-4980-8617-9c93205895fa@216.24.57.6:8443?encryption=none&fp=chrome&host=kakoolnews.dontstealkakoolnews.workers.dev&path=%2F&security=tls&sni=kakoolnews.dontstealkakoolnews.workers.dev&type=ws#%40REDFREE8
 
 vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@188.114.97.6:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%40REDFREE8
 
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info#%40REDFREE8
+vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@betty.ns.cloudflare.com:443?encryption=none&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info&type=ws#%40REDFREE8
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#%40REDFREE8
 
@@ -42,13 +42,7 @@ vless://17451fec-af94-4715-8c2f-7f6839130d0a@108.165.236.144:2040?encryption=non
 
 vless://17451fec-af94-4715-8c2f-7f6839130d0a@96.126.129.195:2040?encryption=none&fp=&pbk=LidllyozUeeSbuzJ0ZfieGoy8YjVzqXX9H2m9whPaG0&security=reality&sid=53197c66aef53c44&sni=tradingview.com&type=tcp#%40REDFREE8
 
-vless://21702d6d-7b35-4faa-8462-c23dc7e20e00@telewebion.com.Fin2.ShAkHlE.iR:52525?security=none&encryption=none&host=status.play.google.com&headerType=http&type=tcp#%40REDFREE8
-
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@145.239.137.250:58748?security=none&encryption=none&host=splus.ir&headerType=http&type=tcp#%40REDFREE8
-
-vless://21e22226-0b96-4b4e-9a91-5c7f9e3f1760@ara.public.lat:58748?security=&encryption=none&host=e1roj9ul.divarcdn.com%2C%20e1roj9ul.alibaba.ir%2C%20e1roj9ul.splus.ir%2C%20e1roj9ul.cafebazaar.ir%2C%20e1roj9ul.yjc.ir&headerType=http&type=tcp#%40REDFREE8
-
-vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=%2Fvless%2F&security=&encryption=none&type=ws#%40REDFREE8
+vless://21702d6d-7b35-4faa-8462-c23dc7e20e00@telewebion.com.Fin2.ShAkHlE.iR:52525?security=&encryption=none&host=status.play.google.com&headerType=http&type=tcp#%40REDFREE8
 
 vless://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?encryption=none&security=none&type=tcp#%40REDFREE8
 
@@ -59,4 +53,10 @@ vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.203:2083?encryption=none&
 vless://3727b0ac-9f3e-4da8-895e-33f739e9d9bb@104.27.78.43:2083?encryption=none&fp=chrome&host=fhfhfhf.kathykroger.workers.dev&path=%2F&security=tls&sni=fhfhfhf.kathykroger.workers.dev&type=ws#%40REDFREE8
 
 vless://37a0bd7c-8b9f-4693-8916-bd1e2da0a817@128.204.223.94:9815?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
+
+vless://3bad1d20-8601-49be-86a2-2141d21dec99@104.20.32.49:2083?path=%2F&security=tls&encryption=none&insecure=0&host=gentle-dream-6aa3.soh8khan13.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=gentle-dream-6aa3.soh8khan13.workers.dev#%40REDFREE8
+
+vless://3c52e091-6714-4915-949f-2149fe69951b@116.206.124.228:80?path=%2Fws&security=&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#%40REDFREE8
+
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#%40REDFREE8
 
