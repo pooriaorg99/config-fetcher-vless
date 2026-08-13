@@ -8,7 +8,11 @@ vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?encryption=none&
 
 vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=none&encryption=none&type=ws#%40REDFREE8
 
+vless://0c6b632a-cd96-4b74-9b51-151e3b5697db@185.79.138.127:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=DUJWZCU-CjH9TglyqNQjydr7sp1ujsn2gHcXGWmgRj8&security=reality&sid=e0331b94eb540116&sni=vk.ru&type=tcp#%40REDFREE8
+
 vless://0c97c970-41be-47dd-80d6-06c9a5c9c458@47.236.106.241:40480?security=none&encryption=none&headerType=none&type=tcp#%40REDFREE8
+
+vless://0e87d003-3b20-41c4-bf3f-c006d0c94685@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=0&host=SvnTeamChannel.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%40REDFREE8
 
 vless://0ed342c3-eb45-4d63-83a1-697252636ca9@yellow-hall-d482.260-d22.workers.dev:8880?encryption=none&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%40REDFREE8
 
@@ -18,11 +22,11 @@ vless://155e8dd4-a559-407a-9ea8-13a5e829f066@168.222.140.204:4100?path=%2Fv1&sec
 
 vless://155e8dd4-a559-407a-9ea8-13a5e829f066@185.247.16.3:2200?path=/v1&security=none&encryption=none&host=rzd.ru&type=ws#%40REDFREE8
 
-vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&security=none&type=ws#%40REDFREE8
+vless://19f54e37-5fae-47f6-bc10-e71ccbc58389@estproxy2.lockdwn.com:443?encryption=none&host=estproxy2.lockdwn.com&path=%2F&security=none&type=ws#%40REDFREE8
+
+vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?path=%2F&security=none&encryption=none&host=parsi.parsi.sbs&type=ws#%40REDFREE8
 
 vless://2001e98b-e06e-4244-910f-7ff640746eda@168.222.202.15:4100?encryption=none&host=live.ok.ru&path=%2Fv1&security=none&type=ws#%40REDFREE8
-
-vless://23182cbe-e05a-80f3-8f8b-230d00c68b6e@69.46.46.123:443?path=%2Fws%2F23182cbe-e05a-80f3-8f8b-230d00c68b6e&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=x4g-production-4b3e8.up.railway.app&fp=chrome&type=ws&allowInsecure=0&sni=x4g-production-4b3e8.up.railway.app#%40REDFREE8
 
 vless://23187ddc-16a5-432d-bf4e-dd42a7ae39f7@104.16.98.215:8880?security=none&type=ws&host=steep-thunder-97fa.108-d10.workers.dev&encryption=none#%40REDFREE8
 
@@ -52,11 +56,7 @@ vless://2ced390a-4252-4541-8985-730f7a06bb45@172.67.81.7:8880?encryption=none&ho
 
 vless://2f5c68d9-182f-4d8b-ab53-9358a04387b7@broad-truth-e988.258-217.workers.dev:8880?encryption=none&path=%2Fpyip%3DProxyIP.US.CMLiussss.net&security=none&type=ws#%40REDFREE8
 
+vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@31.76.76.26:443?encryption=none&path=%2F&security=none&type=ws#%40REDFREE8
+
 vless://2f956d32-8a67-4bc9-8995-e1621ad20ddc@neth6.lckdwn.ru:443?encryption=none&security=none&type=ws#%40REDFREE8
-
-vless://2fb22d40-598f-4890-85a6-d69928b1fd55@104.16.107.139:8880?encryption=none&host=odd-cloud-f2a1.73-12e.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#%40REDFREE8
-
-vless://300f44af-adb8-42b7-b869-bef70b205d7e@104.17.21.32:8880?encryption=none&host=icy-rice-3c1c.340-680.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&security=none&type=ws#%40REDFREE8
-
-vless://31f345f3-b8eb-4ca6-8b14-bb555ae2c1f9@172.67.190.141:8880?path=%2Fpyip&encryption=none&type=ws&host=tiny-feather-4c41.227.workers.dev&security=none#%40REDFREE8
 
