@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-23T09:09:51.269009+00:00",
+  "timestamp": "2026-10-23T14:42:37.081122+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Vless",
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 74.96,
-        "last_success": "2026-10-23T09:09:51.266887+00:00",
+        "last_success": "2026-10-23T14:42:37.079019+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
